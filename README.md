@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SNSania Nawaz
 - 👀 I’m interested in Gen AI, Agentic AI.
 - 🌱 I’m learning Python and langgraph.
-- I learned Typescript, Next.Js, Open AI tools, Langchain, Langgraph, crewAI.......still long to go. 
+- I learned Typescript, Next.Js, Open AI tools, Python, Langchain, Langgraph, crewAI.......still long to go. 
 - My study background is in Business & Finance I am a Researcher and Analyst.
 - I know some financial and statistical software and want to expand my knowledge.
 - I want to use New programming skills to excel in my field and related fields.
